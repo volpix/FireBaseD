@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224488041994",
+    "firebase_url": "https://database-7785a.firebaseio.com",
+    "project_id": "database-7785a",
+    "storage_bucket": "database-7785a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224488041994:android:5863138d1955f0689339f3",
+        "android_client_info": {
+          "package_name": "mx.edu.tesoem.isc.tlgr.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224488041994-c43rek86tflms07l7ngggqqfrdg42688.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-BAvIs7K7DcVxxsO-ljJ0LZSfH9oYhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224488041994-c43rek86tflms07l7ngggqqfrdg42688.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
